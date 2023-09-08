@@ -1,0 +1,13 @@
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado_Mario.deps.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado_Mario.runtimeconfig.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado_Mario.runtimeconfig.dev.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado_Mario.dll
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado_Mario.pdb
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.csproj.AssemblyReference.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.AssemblyInfoInputs.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.AssemblyInfo.cs
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.csproj.CoreCompileInputs.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.dll
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.pdb
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado_Mario.genruntimeconfig.cache

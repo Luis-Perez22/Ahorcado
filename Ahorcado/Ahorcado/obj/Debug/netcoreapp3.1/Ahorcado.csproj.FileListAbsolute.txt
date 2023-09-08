@@ -1,0 +1,13 @@
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.csproj.AssemblyReference.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.AssemblyInfoInputs.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.AssemblyInfo.cs
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.csproj.CoreCompileInputs.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado.deps.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado.runtimeconfig.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado.runtimeconfig.dev.json
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado.dll
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/bin/Debug/netcoreapp3.1/Ahorcado.pdb
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.dll
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.pdb
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/Ahorcado.genruntimeconfig.cache

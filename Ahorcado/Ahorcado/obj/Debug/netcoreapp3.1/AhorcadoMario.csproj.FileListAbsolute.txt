@@ -1,0 +1,5 @@
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/AhorcadoMario.csproj.AssemblyReference.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/AhorcadoMario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/AhorcadoMario.AssemblyInfoInputs.cache
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/AhorcadoMario.AssemblyInfo.cs
+/Users/lguillermo/Projects/Ahorcado/Ahorcado/obj/Debug/netcoreapp3.1/AhorcadoMario.csproj.CoreCompileInputs.cache
